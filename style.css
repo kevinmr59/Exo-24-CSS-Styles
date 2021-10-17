@@ -1,1 +1,32 @@
+body {
+    font-family: sans-serif,Verdana,Arial;
+    background-color: white;
+}
+.tableau {
 
+}
+h1,h2,h3 {
+    font-family: sans-serif,Arial;
+    text-underline: red;
+}
+
+#3 {
+    color: blue;
+    font-size: small;
+    background-color: lightslategrey;
+}
+
+.titre{
+    color: red;
+    text-transform:uppercase;
+}
+
+blockquote:first-letter {
+    color: green;
+    font-size:130% ; }
+
+blockquote {
+    text-transform: capitalize ;
+    font-family: sans-serif,Arial,fantasy;
+    text-indent: 20px;
+}
